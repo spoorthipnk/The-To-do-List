@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_activity_gridview">GridviewActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+</resources>
